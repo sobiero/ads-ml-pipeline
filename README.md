@@ -1,5 +1,5 @@
 # ML Pipeline
-Predict customer churn in a bank\  
+Predict customer churn in a bank\ 
 Data URL: https://www.kaggle.com/mathchi/churn-for-bank-customers  
 
 Make sure you demonstrate the following steps:  
